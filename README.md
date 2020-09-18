@@ -8,3 +8,5 @@ Este repositorio se encuentra dividido en los siguientes módulos:
     * [Search Algorithms](https://github.com/SantiagoGutierrezB/Sistemas_Inteligentes/blob/master/Modulo%202/SearchAlgorithms.ipynb)
     * [Vacuum Cleaner](https://github.com/SantiagoGutierrezB/Sistemas_Inteligentes/blob/master/Modulo%202/AIMA_Codes_HW/Notebook_Modulo2.ipynb)
     * [Cannibal Problem](https://github.com/SantiagoGutierrezB/Sistemas_Inteligentes/blob/master/Modulo%202/AIMA_Codes_HW/Notebook_Modulo2.ipynb)
+- Exámenes
+    * [First Partial Exam](https://github.com/SantiagoGutierrezB/Sistemas_Inteligentes/blob/master/Examenes/Parcial%201/Examen_Parcial_1_IAWoAns.ipynb)
