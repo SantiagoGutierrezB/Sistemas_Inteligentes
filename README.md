@@ -12,3 +12,6 @@ Este repositorio se encuentra dividido en los siguientes módulos:
     * [Bayesian Inference](https://github.com/SantiagoGutierrezB/Sistemas_Inteligentes/blob/master/Modulo%203/Tarea5_WoAns.ipynb)
 - Exámenes
     * [First Partial Exam](https://github.com/SantiagoGutierrezB/Sistemas_Inteligentes/blob/master/Examenes/Parcial%201/Examen_Parcial_1_IAWoAns.ipynb)
+    * [Second Partial Exam](https://github.com/SantiagoGutierrezB/Sistemas_Inteligentes/blob/master/Examenes/Parcial%202/Examen_Parcial_2_SIWoAns.ipynb)
+- Proyecto Final
+    * [Pokemon ML](./Proyecto%20Final/Template_Entrega_SI.ipynb)
